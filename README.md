@@ -3,6 +3,7 @@
 This is a software for the Zedboard SoC. It is able to generate a digital clock using the onboard Zynq  processor. 
 It can display the clock on a monitor through a VGA cable .
 
+![Preview:](https://i2.wp.com/zakshatila.files.wordpress.com/2018/05/20180509_115309.jpg?ssl=1&w=450)
 
 # Running Instructions: 
 
@@ -17,7 +18,6 @@ Use the hardware files from the following git : https://github.com/delhatch/VGA_
 5) We used Putty to run the console since the Vivado console was generating errors.
 6) Set time based on console prompt.
 7) The clock should be running. 
-
 
 Video Link:
 https://www.youtube.com/watch?v=MjSMgS9EPO0
